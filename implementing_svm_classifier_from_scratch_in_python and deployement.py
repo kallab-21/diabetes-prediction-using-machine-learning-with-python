@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" Implementing SVM Classifier from Scratch in Python.ipynb
+""" Implementing SVM Classifier from Scratch in Python.ipynb """
 
 
 **SVM Classifier**
