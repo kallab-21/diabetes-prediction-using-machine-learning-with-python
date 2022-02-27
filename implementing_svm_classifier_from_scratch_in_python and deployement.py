@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
-""" Implementing SVM Classifier from Scratch in Python.ipynb """
+""" Implementing SVM Classifier from Scratch in Python.ipynb 
+
+Created on Tue Feb 18 09:34:12 2022
+@author: kal ab
+"""
 
 
 **SVM Classifier**
