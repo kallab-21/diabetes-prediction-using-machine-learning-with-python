@@ -221,6 +221,8 @@ if (prediction[0] == 0):
 
 else:
   print('The Person is diabetic')
+  
+#for deployement purpose: loading the svm_classifier into the pickle
 
 import pickle
 
