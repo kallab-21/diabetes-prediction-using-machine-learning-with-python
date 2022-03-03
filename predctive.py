@@ -2,7 +2,9 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+Created on Tue Feb 22 13:17:45 2022
+@author: kal ab
+
 """
 class SVM_classifier():
 
